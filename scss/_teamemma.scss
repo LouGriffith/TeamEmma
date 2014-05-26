@@ -1,0 +1,79 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300,400,600);
+
+.team-emma .nav{
+	background: #333333
+}
+
+body{
+	background: url(../images/vichy.png);
+}
+
+.team-emma .callout{
+	padding: 2em 0;
+	color: #fff;
+	border: 0px;
+	background: #3E643C url(../images/stonebrige_01.jpg) no-repeat 0px -40px; 
+
+
+	h2{
+		color: #fff;
+		font-weight: 600;
+	}
+
+	h4{
+		color: #ddd;
+		font-weight: 400;
+	}
+
+	p{
+		color: #fff;
+	}
+
+}
+
+.brand{
+	text-align: center;
+	margin-bottom: 2em;
+}
+
+.team-emma .columns > h3{
+	text-align: center;
+	font-size: 2.5em;
+	margin-bottom: 1em;
+	font-weight: 300;
+	color: #3E643C;
+}
+
+.team-emma footer{
+	background: #333;
+	color: #ddd;
+	border: 0;
+	padding: 0;
+	margin-bottom: 0;
+	font-size: .8em;
+
+	.row{
+		padding: 2em 0 1em;
+	}
+
+	h4{
+		color: #ddd;
+	}
+
+	h3{
+		color: #fff;
+	}
+}
+
+div.row{
+	padding: 3em 0;
+}
+
+div.row .row{
+	padding: 0;
+}
+
+ul.unlist{
+	list-style: none;
+}
+
